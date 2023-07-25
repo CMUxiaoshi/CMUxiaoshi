@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi there, it's Xiao here! 👋
+    Welcome to visit my GitHub.
+    🔭 I’m currently working on business intelligence and Data Analytics.
+    🌱 Looking for a full-time job currently
+    📫 How to reach me: Send me an email to sx1194217713@gmail.com
 <!--
 **CMUxiaoshi/CMUxiaoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
