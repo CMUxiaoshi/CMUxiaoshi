@@ -1,19 +1,25 @@
-### Hi there, it's Xiao here! 👋
+# Hi there, it's Xiao here! 👋
     Welcome to visit my GitHub.
     🔭 I’m currently working on business intelligence and Data Analytics.
     🌱 Looking for a full-time job currently
-    📫 How to reach me: Send me an email to sx1194217713@gmail.com
-<!--
-**CMUxiaoshi/CMUxiaoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    📫 How to reach me: Send me an email to xiaoshi@andrew.cmu.edu
 
-Here are some ideas to get you started:
+# Portfolio
+## Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Deep Learning
+
+## Big Data Tricks
+
+## Python Tricks
+
+## Java
+
+## Basic Data Structure
+
+## Internship
+
+## Competitions
+
+
+
