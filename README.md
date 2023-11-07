@@ -15,7 +15,7 @@
 
 ## Java
 
-## Basic Data Structure
+## Data Structure
 
 ## Internship
 
