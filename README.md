@@ -15,7 +15,7 @@
 
 ## Java
 
-## [DataStructure](DataStructures)
+## [DataStructure](CMUxiaoshi/DataStructures)
 
 ## Internship
 
