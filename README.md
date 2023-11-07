@@ -15,7 +15,7 @@
 
 ## Java
 
-## Data Structure [DataStructure](DataStructure)
+## [DataStructure](DataStructure)
 
 ## Internship
 
