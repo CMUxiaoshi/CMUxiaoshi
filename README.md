@@ -4,22 +4,5 @@
     🌱 Looking for a full-time job currently
     📫 How to reach me: Send me an email to xiaoshi@andrew.cmu.edu
 
-# Portfolio
-## Machine Learning
-
-## Deep Learning
-
-## Big Data Tricks
-
-## Python Tricks
-
-## Java
-
-## [DataStructure](CMUxiaoshi/DataStructures)
-
-## Internship
-
-## Competitions
-
 
 
